@@ -1,0 +1,15 @@
+body{
+	background-color: azure;
+	font-family: "corbel";
+	margin: 25px;
+}
+
+h1{
+	text-align: center;
+	font-size: 5vw;
+	font-family: "freestyle script regular";
+}
+
+#imgcred{
+	text-align: center;
+}
